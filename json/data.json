@@ -1,0 +1,74 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Barra",
+      "start": "2023-10-09",
+      "end": "2023-10-09",
+      "allDay": true
+    },
+    {
+      "id": 2,
+      "title": "Barra",
+      "start": "2023-9-09",
+      "end": "2023-9-09",
+      "allDay": true
+    },
+    {
+      "id": 3,
+      "title": "Barra",
+      "start": "2023-8-09",
+      "end": "2023-8-09",
+      "allDay": true
+    },
+    {
+      "id": 4,
+      "title": "Barra",
+      "start": "2023-7-09",
+      "end": "2023-7-09",
+      "allDay": true
+    },
+    {
+      "id": 5,
+      "title": "Barra",
+      "start": "2023-6-09",
+      "end": "2023-6-09",
+      "allDay": true
+    },
+    {
+      "id": 6,
+      "title": "Barra",
+      "start": "2023-5-09",
+      "end": "2023-5-09",
+      "allDay": true
+    },
+    {
+      "id": 7,
+      "title": "Barra",
+      "start": "2023-4-09",
+      "end": "2023-4-09",
+      "allDay": true
+    },
+    {
+      "id": 8,
+      "title": "Barra",
+      "start": "2023-3-09",
+      "end": "2023-3-09",
+      "allDay": true
+    },
+    {
+      "id": 9,
+      "title": "Barra",
+      "start": "2023-2-09",
+      "end": "2023-2-09",
+      "allDay": true
+    },
+    {
+      "id": 10,
+      "title": "Barra",
+      "start": "2023-1-09",
+      "end": "2023-1-09",
+      "allDay": true
+    }
+  ]
+}

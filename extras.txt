@@ -1,0 +1,6 @@
+-Se instaló una dependencia llamada json-server para ejecutar
+un servidor que permita interactuar con un archivo JSON tal cual
+como si se hiciera con una BD SQL. No usa SQL, solamente formato JSON
+
+-En el archivo events.js se debe colocar la URL donde se aloja el servidor
+JSON para que FullCalendar pueda interactuar con información.
